@@ -1,0 +1,23 @@
+[
+  {
+    "orderId": "ORD101",
+    "customerName": "Rahul",
+    "product": "Wireless Headphones",
+    "status": "Shipped",
+    "deliveryDate": "2026-11-20"
+  },
+  {
+    "orderId": "ORD102",
+    "customerName": "Priya",
+    "product": "Smart Watch",
+    "status": "Processing",
+    "deliveryDate": "2026-11-23"
+  },
+  {
+    "orderId": "ORD103",
+    "customerName": "Amit",
+    "product": "Bluetooth Speaker",
+    "status": "Delivered",
+    "deliveryDate": "2026-11-15"
+  }
+]
